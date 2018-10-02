@@ -1,0 +1,44 @@
+.contain{
+    height: 100vh;
+    width: 100%;
+}
+
+.container{
+    height: 900px;
+}
+
+.chart-area{
+    height: 100%;
+    width: 100%;
+}
+
+.chart-area-half{
+    height: 100%;
+    width: 100%;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.chartOne {
+    height: 200px;
+}
+
+.chartTwo{
+    height: 200px;
+}
+
+.h450{
+    height: 450px;
+}
+
+.pt16{
+    padding-top: 16px;
+}
